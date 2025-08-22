@@ -1,1 +1,1 @@
-Week 2 — Basics & First Mini Project Complete ✅: Learned Python fundamentals and built my first mini-project.
+Week 2 — Basics & First Mini Project Complete ✅: Learned AI & APIs fundamentals and built my first mini-project.
