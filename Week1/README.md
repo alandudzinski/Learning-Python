@@ -1,0 +1,1 @@
+Week 1 — Basics & First Mini Project Complete ✅: Learned Python fundamentals and built my first mini-project.
